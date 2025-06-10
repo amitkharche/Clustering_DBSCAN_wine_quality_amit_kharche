@@ -47,6 +47,12 @@ wine-quality-dbscan-project/
 ```
 
 ## 🚀 Usage
+### Clone the repository
+   ```bash
+   git clone https://github.com/amitkharche/Clustering_DBSCAN_wine_quality_amit_kharche.git
+   cd Clustering_DBSCAN_wine_quality_amit_kharche
+
+   ```
 
 ### Install Dependencies
 ```bash
@@ -90,3 +96,10 @@ docker-compose up --build
 
 ## 📄 License
 MIT License
+
+## 📬 Contact
+
+If you have questions or want to collaborate, feel free to connect with me on
+- [LinkedIn](https://www.linkedin.com/in/amit-kharche)  
+- [Medium](https://medium.com/@amitkharche14)  
+- [GitHub](https://github.com/amitkharche)
